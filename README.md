@@ -2,7 +2,7 @@
 
 This repository is intended as supplental data for the manuscript "Improved neonatal brain MRI segmentation by interpolation of motion corrupted slices"
 
-# Part 1 - Automatic segmentation methods dealing with motion
+# Part 1 - How Automatic segmentation techniques deal with motion
 
 Figure 1: 
 

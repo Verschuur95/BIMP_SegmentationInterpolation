@@ -17,6 +17,6 @@ For this assessment, a scan without motion artifacts was used to visually evalua
 Morphological contour interpolation works properly in structures with a more flattened surface (e.g. cerebellum, brainstem and deep gray matter), but in structures with more protrusion/depression, e.g. cortical gray matter and white matter, interpolation results in wrong estimations. In Figure 2c, we can see that interpolation leads to over segmentation of white matter, compared to the original segmentation (Figure 2a) and the proposed method (Figure 2b).
   Shape-based interpolation seems more accurate than contour interpolation, but details at the cortical gray matter and white matter interface are lost (Figure 2d).
   
-![SegmentationInterpolation](SegmentationInterpolation.png)
+![Segmentation Interpolation](SegmentationInterpolation.PNG)
 Figure 2: 
 

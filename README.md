@@ -18,5 +18,5 @@ Morphological contour interpolation works properly in structures with a more fla
   Shape-based interpolation seems more accurate than contour interpolation, but details at the cortical gray matter and white matter interface are lost (Figure 2d).
   
 ![Segmentation Interpolation](SegmentationInterpolation.PNG)
-Figure 2: 
+Figure 2: Visual assessment of segmentation results using different interpolation methods, a) Original segmentation, b) proposed method, c) Morphological Contour interpolation with 3Dslicer, and d) shape-based interpolation with MevisLab. Visually, the white matter area in c) is much larger, compared to the original segmentation in a), loss of gray matter labels is indicated with the blue ellipse. d) is more comparable to a) and b), but here we can see loss of sucation/gyration details at the cGM-WM borders and a larger cGM volume (yellow ellipse).
 

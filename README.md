@@ -7,11 +7,11 @@ The impact of motion on segmentation may differ amongst different neonatal brain
 
 ![dHCPpipeline_nomotion](dHCPpipeline_nomotion.png)
 
-Figure 1: Segmentation of a scan without motion artifacts using dHCP structural pipeline.
+Figure 1: Segmentation of a scan without motion artifacts using dHCP structural pipeline. Please note that color coding is different from figures in the main document.
 
 ![dHCPpipeline_motion](dHCPpipeline_motion.png)
 
-Figure 2: Segmentation of a scan with motion artifacts using dHCP structural pipeline. Slices with motion artifacts are marked with a white asterisk. Segmentation errors caused by motion are similar in both techniques (see Figure 4 of main document for comparison).
+Figure 2: Segmentation of a scan with motion artifacts using dHCP structural pipeline. Slices with motion artifacts are marked with a white asterisk. Segmentation errors caused by motion are similar in both techniques (see Figure 4 of main document for comparison). Please note that color coding is different from figures in the main document.
 
 # Part 2 - alternative interpolation techniques
 Instead of interpolating T2-weighted images, followed by segmentation (as proposed in the paper), it may be more appropriate to directly interpolate the segmentation images. In this supplemental data we show a preliminary visual assessment of two segmentation-interpolation methods, compared to the original segmentation and results from the proposed method in this paper. 

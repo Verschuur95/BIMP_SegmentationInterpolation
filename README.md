@@ -28,7 +28,7 @@ Morphological contour interpolation works properly in structures with a more fla
 
 Figure 3: Visual assessment of segmentation results using different interpolation methods. The red circle indicates a representative area for comparison between a) original segmentation, b) proposed method, c) Morphological Contour Interpolation with 3Dslicer, and d) shape-based interpolation with MevisLab. Visually, the white matter area in c) is much larger, compared to the original segmentation in a); loss of cortical gray matter labels is highlighted with the blue ellipse. d) is more comparable to a) and b), but here,  loss of sulcation/gyration details is observed in the cortical gray matter and white matter, resulting in a larger gray matter volume (yellow ellipse).
 
-In our opinion, it would be very interesting to further assess interpolation methods for segmentation images. This would require optimizing interpolation methods for accurate estimation of structures with a flattened surface, but also of structures with more protrusion/depression, susch as cortical gray matter, white matter and cerebrospinal fluid.
+In our opinion, it would be very interesting to further assess interpolation methods for segmentation images. This would require optimizing interpolation methods for accurate estimation of structures with a flattened surface, but also of structures with more protrusion/depression, such as cortical gray matter, white matter and cerebrospinal fluid.
 
 # References
 [1] A. Makropoulos, E. C. Robinson et al. "The Developing Human Connectome Project: a Minimal Processing Pipeline for Neonatal Cortical Surface Reconstruction". Available at: https://github.com/BioMedIA/dhcp-structural-pipeline

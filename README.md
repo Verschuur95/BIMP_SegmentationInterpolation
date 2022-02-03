@@ -1,6 +1,6 @@
 # BIMP supplemental data
 
-This repository is intended as supplental data for "Improved neonatal brain MRI segmentation by interpolation of motion corrupted slices"
+This repository is intended as supplemental data for "Improved neonatal brain MRI segmentation by interpolation of motion corrupted slices"
 
 # Part 1 - How automatic segmentation techniques deal with motion
 The impact of motion on segmentation may differ amongst different neonatal brain segmentation techniques. In this supplemental data, segmentation results of a second neonatal brain segmentation pipeline are shown for comparison. The structural pipeline of the Developing Human Connectome (dHCP) was used to segment data with and without motion artifacts [1].

@@ -28,7 +28,7 @@ Figure 2: Segmentation of a scan without motion artifacts using dHCP structural 
 
 ![dHCPpipeline_motion](dHCPpipeline_motion.png)
 
-Figure 3: Segmentation of a scan with motion artifacts using dHCP structural pipeline. Slices with motion artifacts are marked with a white asterisk. Segmentation errors caused by motion appear similar in both techniques, but small differences can be observed (see Figure 4 of main document showing the same scan segmented using MANTiS). Please note that color coding is different from figures in the main document.
+Figure 3: Segmentation of a scan with motion artifacts using dHCP structural pipeline. Slices with motion artifacts are marked with a white asterisk. Segmentation errors caused by motion appear similar in both techniques, but small differences can be observed (see Figure 4 of main document showing the same scan after segmentation with MANTiS). Please note that color coding is different from figures in the main document.
 
 # References
 [1] A. Makropoulos, E. C. Robinson et al. "The Developing Human Connectome Project: a Minimal Processing Pipeline for Neonatal Cortical Surface Reconstruction". Available at: https://github.com/BioMedIA/dhcp-structural-pipeline

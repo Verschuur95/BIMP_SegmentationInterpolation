@@ -5,11 +5,11 @@ This repository is intended as supplental data for "Improved neonatal brain MRI 
 # Part 1 - How automatic segmentation techniques deal with motion
 The impact of motion on segmentation may differ amongst different neonatal brain segmentation techniques. In this supplemental data, segmentation results of a second neonatal brain segmentation pipeline are shown for comparison. The structural pipeline of the Developing Human Connectome (dHCP) was used to segment data with and without motion artifacts [1].
 
-![dHCPpipeline_nomotion](dHCPpipeline_nomotion.PNG)
+![dHCPpipeline_nomotion](dHCPpipeline_nomotion.png)
 
 Figure 1: Segmentation of a scan without motion artifacts using dHCP structural pipeline.
 
-![dHCPpipeline_motion](dHCPpipeline_motion.PNG)
+![dHCPpipeline_motion](dHCPpipeline_motion.png)
 
 Figure 2: Segmentation of a scan with motion artifacts using dHCP structural pipeline. Slices with motion artifacts are marked with a white asterisk. Segmentation errors caused by motion are similar in both techniques (see Figure 4 of main document for comparison).
 

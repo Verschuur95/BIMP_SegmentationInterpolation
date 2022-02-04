@@ -2,7 +2,7 @@
 
 This repository is intended as supplemental data for "Improved neonatal brain MRI segmentation by interpolation of motion corrupted slices". Part 1 discusses interpolation of segmentation and part 2 discusses a second segmentation technique used on a scan without motion and a scan with motion before and after interpolation.
 
-# Part 1 - interpolation of segmentation
+# Part 1 - Interpolation of segmentation
 Instead of interpolating T2-weighted images, followed by segmentation (as proposed in the paper), it may be more appropriate to directly interpolate the segmentation images. In this supplemental data we show a preliminary visual assessment of two segmentation-interpolation methods, compared to the original segmentation and results from the proposed method in this paper. 
 
 For this assessment, a scan without motion artifacts was used to visually evaluate segmentation results of different techniques, which were:

@@ -22,6 +22,10 @@ In our opinion, it would be very interesting to further assess interpolation met
 # Part 2 - How automatic segmentation techniques deal with motion
 The impact of motion on segmentation may differ amongst different neonatal brain segmentation techniques. In this supplemental data, segmentation results of a second neonatal brain segmentation pipeline are shown for comparison. The structural pipeline of the Developing Human Connectome Project (dHCP) was used to segment data without motion artifacts (Figure 2) and with motion artifacts before (Figure 3) and after (Figure 4) interpolation [1].
 
+Segmentation with the dHCP structural pipeline appears visually similar to segmentation with MANTiS in motion-affected scans (Figure 3 below vs. Figure 4 of main document) and in interpolated scans (Figure 4 below vs. Figure 5 of main document).
+
+a scan with motion artifacts and an interpolated scan appear similar using the dHCP structural pipeline as compared to MANTiS segmentation.
+
 ![dHCPpipeline_nomotion](dHCPpipeline_nomotion.png)
 
 _Figure 2: Segmentation of a scan without motion artifacts using dHCP structural pipeline. Please note that color coding is different from figures in the main document._

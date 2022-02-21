@@ -24,8 +24,6 @@ The impact of motion on segmentation may differ amongst different neonatal brain
 
 Segmentation with the dHCP structural pipeline appears visually similar to segmentation with MANTiS in motion-affected scans (Figure 3 below vs. Figure 4 of main document) and in interpolated scans (Figure 4 below vs. Figure 5 of main document).
 
-a scan with motion artifacts and an interpolated scan appear similar using the dHCP structural pipeline as compared to MANTiS segmentation.
-
 ![dHCPpipeline_nomotion](dHCPpipeline_nomotion.png)
 
 _Figure 2: Segmentation of a scan without motion artifacts using dHCP structural pipeline. Please note that color coding is different from figures in the main document._
